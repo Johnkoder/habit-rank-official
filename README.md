@@ -1,5 +1,9 @@
 # HabitRank
 
+<p align="center">
+  <img src="assets/habit-rank-logo.svg" width="240" alt="HabitRank project artwork" />
+</p>
+
 HabitRank is a gamified, offline-first Android habit tracker that turns everyday habits into progression through XP, streaks, ranks, achievements, and seasons.
 
 > **Development approach:** HabitRank is an AI-assisted / vibe-coded personal project. I drive the product idea, feature decisions, UI direction, testing, iteration, and releases while using AI coding tools heavily during implementation.
